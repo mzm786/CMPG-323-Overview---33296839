@@ -1,9 +1,9 @@
 # CMPG-323-Overview---33296839
 This is my semester plan for CMPG 323
 ## Project 2 Repository
-An API Repository will be created for this project
+An API Repository will be created for this project.
 ### Project 3 Repository
-A repository for patterns and designs will be created
+A repository for patterns and designs will be created. Did not submit this project due to work and personal commitments and resposibilities
 #### Project 4 Repository
 A repository for UAT testing will be created
 ##### Project 5 Repository
