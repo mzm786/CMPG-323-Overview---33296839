@@ -5,7 +5,8 @@ An API Repository will be created for this project
 ### Project 3 Repository
 A repository for patterns and designs will be created
 #### Project 4 Repository
-A repository for UAT testing will be created
+A repository for UAT testing will be created. 
+This project was interesting. Used the video resource that was provided to assist me with the completion of the project. I had no issues in completing this project. 
 ##### Project 5 Repository
 A repository Reporting and data visualization will be created
 ###### Branching Strategy
